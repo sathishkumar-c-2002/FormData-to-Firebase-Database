@@ -40,7 +40,7 @@ const FormComponent=()=>{
             </div>
         )
     }
-    return(
+    return (
         <form onSubmit={handleSubmit}>
             <h2>Contact Form</h2>
             <div>
